@@ -1,2 +1,2 @@
 COMMON LINE
-some text here, modified master
+some text here, modified master and other
