@@ -1,1 +1,2 @@
-some text here, fast fix, modified
+COMMON LINE
+some text here
